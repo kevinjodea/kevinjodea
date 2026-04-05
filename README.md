@@ -1,14 +1,14 @@
-### About Me
+## About Me
 
 Hi, I'm Kev! 🌵
 
-### Certifications
+## Certifications
 
   <a href="https://www.credly.com/badges/9e5b4683-c3aa-4609-8e6a-eba25e858c6d/public_url" target="_blank">
     <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Credly Badge" width="125" />
   </a>
 
-### Skills & Interests
+## Skills & Interests
 
 [![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)](#)
 [![Arch](https://img.shields.io/badge/Arch-1D4ED8?style=for-the-badge&logo=arch-linux&logoColor=white)](#)

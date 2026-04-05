@@ -5,7 +5,7 @@ Hi, I'm Kev! 🌵
 ### Certifications
 
   <a href="https://www.credly.com/badges/9e5b4683-c3aa-4609-8e6a-eba25e858c6d/public_url" target="_blank">
-    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Credly Badge" width="100" />
+    <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="Credly Badge" width="125" />
   </a>
 
 ### Skills & Interests
